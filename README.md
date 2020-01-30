@@ -3,7 +3,9 @@
 The Bee Movie operating system. Outclasses Debian, Arch, CentOS, and RHEL in every measurable way (i.e. the ability to print out the Bee Movie script in a mere 51kb bootloader).
 
 The original code was made by [CommandBlockGuy](https://github.com/commandblockguy) 
-in the SciCraft Discord, I expanded it to delay character for readability and use the VGA color palette
+in the SciCraft Discord, I expanded it to delay character for readability and use the VGA color palette.
+
+Both are probably not very portable so YMMV.
 
 ### Dependencies
 
