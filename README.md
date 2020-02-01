@@ -11,7 +11,7 @@ Both are probably not very portable so YMMV.
 
 `qemu-system-x86_64` and `nasm`.
 
-I just ran `sudo apt install qemu qemu-system-x86_64 nasm`.
+I just ran `sudo apt install qemu qemu-system-x86 nasm`.
 
 ### Usage
 
